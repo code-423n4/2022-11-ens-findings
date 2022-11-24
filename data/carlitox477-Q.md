@@ -1,1 +1,0 @@
-If this submission is received it means that anyone can submit a bug to private contest, even though the GitHub repo is not visible.
