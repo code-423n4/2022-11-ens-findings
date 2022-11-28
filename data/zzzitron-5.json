@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "zzzitron",
+  "risk": "2",
+  "title": "NameWrapper: one can renew to DoS a Name",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/5"
+}
