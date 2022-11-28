@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "zzzitron",
+  "risk": "2",
+  "title": "NameWrapper: Cannot prevent transfer while upgrade even with `CANNOT_TRANSFER` fuse regardless of the upgraded NameWrapper's implementation",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/6"
+}
