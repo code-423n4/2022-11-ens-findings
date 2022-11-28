@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "zzzitron",
+  "risk": "2",
+  "title": "NameWrapper: Wrapped to Unregistered to ignore `PARENT_CANNOT_CONTROL`",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/8"
+}
