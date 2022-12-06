@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "izhuer",
+  "risk": "3",
+  "title": "[ZZ-004] During the deprecation period where both .eth registrar controllers are active, a crafted hack can be launched and cause the same malicious consequences of [ZZ-001] even if [ZZ-001] is properly fixed",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/16"
+}
