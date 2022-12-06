@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "izhuer",
+  "risk": "2",
+  "title": "[ZZ-003] TLD (e.g., xyz) can be frozen after being expired",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/15"
+}
