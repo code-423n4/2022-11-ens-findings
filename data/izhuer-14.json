@@ -1,0 +1,8 @@
+{
+  "contest": 184,
+  "handle": "izhuer",
+  "risk": "3",
+  "title": "[ZZ-001] PARENT_CANNOT_CONTROL and CANNOT_CREATE_SUBDOMAIN fuses can be bypassed",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2022-11-ens-findings/issues/14"
+}
